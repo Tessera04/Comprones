@@ -10,3 +10,11 @@ header{
     text-decoration: none;
     color: white;
 }
+
+.opciones-nav li:hover{
+    color: #804114;
+}
+
+.fondo{
+    background-color: #ebebeb;
+}
