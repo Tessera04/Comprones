@@ -18,3 +18,16 @@ header{
 .fondo{
     background-color: #ebebeb;
 }
+
+.titulo-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box{
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+}
+
+.box:hover{
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,.2);
+}
